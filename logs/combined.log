@@ -1,0 +1,182 @@
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-28 09:15:26 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-28 09:18:44 PM +0000"}
+{"service":"LocationController","message":"Request to get locations","level":"info","timestamp":"2019-11-28 09:18:50 PM +0000"}
+{"service":"LocationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-28 09:18:50 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-28 09:21:38 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 09:21:55 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 09:24:08 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 09:24:40 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-28 10:05:25 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 10:05:31 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 10:05:31 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:05:32 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 10:05:32 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:05:32 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 10:05:32 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 10:06:12 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 10:07:20 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 10:07:42 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-28 10:13:58 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"AuthController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"LocationController","message":"Request to get locations","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"LocationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-28 10:14:06 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 06:33:57 PM +0000"}
+{"service":"AuthController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-29 06:34:22 PM +0000"}
+{"service":"AuthController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-29 06:34:22 PM +0000"}
+{"service":"LocationController","message":"Request to get locations","level":"info","timestamp":"2019-11-29 06:34:42 PM +0000"}
+{"service":"LocationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-29 06:34:42 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 06:47:22 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:undefined","level":"info","timestamp":"2019-11-29 06:48:25 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 06:49:36 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:olliaro.jpg","level":"info","timestamp":"2019-11-29 06:49:39 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 06:58:04 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 06:58:26 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 07:04:01 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 07:04:07 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 07:05:12 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 07:05:15 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 07:06:19 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 07:06:22 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 09:42:34 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 09:43:00 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 09:45:06 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 09:45:10 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_app.unity3d","level":"info","timestamp":"2019-11-29 09:59:17 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 09:59:34 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-29 10:00:18 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 10:05:19 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-29 10:05:25 PM +0000"}
+{"service":"fileDownloadController","message":"Error downloading file:Error: ENOENT: no such file or directory, stat 'C:\\olli_dev\\popupview_api\\download_files\\salford_quays_banner2.jpg'","level":"info","timestamp":"2019-11-29 10:05:25 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 10:06:54 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-29 10:06:59 PM +0000"}
+{"service":"fileDownloadController","message":"File could not be downloaded:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-29 10:06:59 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 10:07:57 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-29 10:08:00 PM +0000"}
+{"service":"fileDownloadController","message":{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"C:\\olli_dev\\popupview_api\\download_files\\salford_quays_banner2.jpg","expose":false,"statusCode":404,"status":404},"level":"info","timestamp":"2019-11-29 10:08:00 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:08:09 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:08:09 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-29 10:26:42 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:26:48 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:26:48 PM +0000"}
+{"service":"authController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-29 10:28:51 PM +0000"}
+{"service":"authController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"authController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-29 10:28:52 PM +0000"}
+{"service":"authController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"authController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"authController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-29 10:33:43 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-30 08:57:01 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:35 AM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:35 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:55 AM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:55 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:57 AM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 08:57:57 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-30 09:00:07 AM +0000"}
+{"service":"fileDownloadController","message":{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"C:\\olli_dev\\popupview_api\\download_files\\salford_quays_banner2.jpg","expose":false,"statusCode":404,"status":404},"level":"info","timestamp":"2019-11-30 09:00:07 AM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-30 09:05:18 AM +0000"}
+{"service":"authController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-30 09:06:10 AM +0000"}
+{"service":"authController","message":"Request to authenticate:olli2","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"authController","message":"Authentication failed:Login username not found for olli2","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"authController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"fileDownloadController","message":"Successfully sent file:salford_quays_banner.jpg","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"fileDownloadController","message":"Request to download file:salford_quays_banner2.jpg","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"fileDownloadController","message":{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"C:\\olli_dev\\popupview_api\\download_files\\salford_quays_banner2.jpg","expose":false,"statusCode":404,"status":404},"level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-30 09:07:30 AM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-11-30 09:19:52 AM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-11-30 09:23:01 AM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-11-30 09:23:01 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:31:55 AM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-11-30 09:31:55 AM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-11-30 09:32:44 AM +0000"}
+{"service":"authController","message":"Authentication failed:Password failed for testuser","level":"info","timestamp":"2019-11-30 09:32:44 AM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-01 08:21:37 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-01 08:28:53 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-13 09:28:44 PM +0000"}
+{"service":"uptimeController","message":"Request to uptime service","level":"info","timestamp":"2019-12-13 09:29:10 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-13 09:30:23 PM +0000"}
+{"service":"uptimeController","message":"Request to uptime service","level":"info","timestamp":"2019-12-13 09:30:28 PM +0000"}
+{"service":"uptimeController","message":"Returned system fully available.","level":"info","timestamp":"2019-12-13 09:30:28 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-13 09:32:01 PM +0000"}
+{"service":"uptimeController","message":"Request to uptime service","level":"info","timestamp":"2019-12-13 09:32:05 PM +0000"}
+{"service":"uptimeController","message":"Returned system fully available.","level":"info","timestamp":"2019-12-13 09:32:05 PM +0000"}
+{"service":"uptimeController","message":"Request to uptime service","level":"info","timestamp":"2019-12-13 09:32:07 PM +0000"}
+{"service":"uptimeController","message":"Returned system fully available.","level":"info","timestamp":"2019-12-13 09:32:07 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-13 09:32:34 PM +0000"}
+{"service":"uptimeController","message":"Request to uptime service","level":"info","timestamp":"2019-12-13 09:32:38 PM +0000"}
+{"service":"uptimeController","message":"Uptime service failed","level":"info","timestamp":"2019-12-13 09:32:38 PM +0000"}
+{"service":"server","message":"RESTful API server started on: 3000","level":"info","timestamp":"2019-12-25 05:40:42 PM +0000"}
+{"service":"authController","message":"Request to authenticate:testuser","level":"info","timestamp":"2019-12-25 05:41:17 PM +0000"}
+{"service":"authController","message":"Successfully authenticated and created token:testuser","level":"info","timestamp":"2019-12-25 05:41:17 PM +0000"}
+{"service":"locationController","message":"Request to get locations","level":"info","timestamp":"2019-12-25 05:41:45 PM +0000"}
+{"service":"locationController","message":"Returned locations data successfully.","level":"info","timestamp":"2019-12-25 05:41:45 PM +0000"}
